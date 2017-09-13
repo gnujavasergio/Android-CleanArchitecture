@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/gnujavasergio/.android/build-cache/ae062314284a03b4a6534cc885448aeb9299eb5d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="/home/gnujavasergio/projectsAndroidStudio/Kamaleon/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7009485246e63d68df342ec80cc2b00fddd22ab3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gnujavasergio/projectsAndroidStudio/Kamaleon/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/gnujavasergio/projectsAndroidStudio/Kamaleon/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3cf145fd65aaf4e092ad74272707da69d7b61b1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/gnujavasergio/projectsAndroidStudio/Kamaleon/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6b64568e612a96080299971694821c45725b66c">
+        <dex dex="/home/gnujavasergio/projectsAndroidStudio/Kamaleon/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b82af3682b8e85770522457a1fce9d83a0621426/classes.dex" />
+    </item>
+
+</items>
